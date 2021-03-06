@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/tomato.dir/main.c.o CMakeFiles/tomato.dir/menu.c.o CMakeFiles/tomato.dir/order.c.o CMakeFiles/tomato.dir/category.c.o  -o tomato 
